@@ -1,5 +1,7 @@
 # eCommerce Website - Backend 
-## Idea
+
+## Overview
+### Idea
 - Load the data of the existing products using REST APIs and MySQL database. 
 - Integrate the Angular frontend and Spring Boot backend. 
 
